@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=arg
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=GUI()
+comment1.text=\n\ \ \ \ Constructor\ -\ instantiates\ and\ displays\ all\ of\ the\ GUI\ commponents\n
+comment2.params=
+comment2.target=void\ setupMenus()
+comment2.text=\n\ \ \ \ Set\ up\ the\ menu\ items\n
+comment3.params=
+comment3.target=void\ setupButtons()
+comment3.text=\n\ \ Set\ up\ the\ Buttons\ declare\ buttons,\ add\ them\ to\ the\ different\ panels,\ add\ panels\ to\ layouts\ add\ buttons\ to\ action\ listener\n
+comment4.params=
+comment4.target=void\ gameOver()
+comment5.params=
+comment5.target=void\ newGame()
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.text=\nResponds\ to\ menu\ selections\ and\ button\ clicks\n\n@param\ e\ the\ button\ or\ menu\ item\ that\ was\ selected\n********************************************************************
+numComments=7

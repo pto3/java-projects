@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=arg
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\n\ \ \ \ \ Create\ all\ elements\ and\ display\ within\ the\ GUI\n
+comment1.params=
+comment1.target=CrapsGUI()
+comment1.text=\n\ \ \ \ \ Create\ all\ elements\ and\ display\ within\ the\ GUI\n
+comment2.params=event
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\n\ \ \ \ \ Inner\ class\ to\ repond\ to\ the\ user\ action\n\n\ \ \ \ \ @param\ e\ -\ the\ JComponent\ just\ selected\n
+numComments=3
